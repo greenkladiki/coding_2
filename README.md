@@ -1,9 +1,13 @@
 # coding_2
 ## программирование. 2 курс
 авторство: [Алена Утробина](https://github.com/greenkladiki), бкл-172, 3 группа
+
 [ссылка](https://github.com/greenkladiki/coding) на репозиторий прошлого года (2017-2018)
+
 [ссылка](https://github.com/greenkladiki/coding_2) на репозиторий этого года (2018-2019)
+
 рабочая почта: kladiki@mail.ru
+
 tg: @greenkladiki
 
 №|описание|ссылка на работу
