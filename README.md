@@ -12,7 +12,7 @@ tg: @greenkladiki
 
 №|описание|ссылка на работу
 ---|---|---
-1|игра "виселица"|*[код](https://github.com/greenkladiki/coding_2/blob/master/hw/game.py)*
+1|игра "виселица"|*[код](https://github.com/greenkladiki/coding_2/blob/master/hw/game.py) или [код в ipynb](https://github.com/greenkladiki/coding_2/blob/master/hw/game.ipynb)*
 
 
 ![](https://pp.userapi.com/c824502/v824502211/8f0c3/NRnzWb9XF0c.jpg)
