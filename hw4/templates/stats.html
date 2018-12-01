@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Статистика</title>
+</head>
+<body>
+    <p>
+    {%for row in content%}
+        {%print(" ".join(row))%}
+        <br>
+    {%endfor%}
+    </p>
+    <p><a href='/'>главная страница</a></p>
+    <p><a href='/json'>json</a></p>
+    <p><a href='/search'>поиск</a></p>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang='ru'>
+<head>
+	<meta charset='utf-8'>
+	<title>анкета</title>
+</head>
+<body>
+<form action='http://127.0.0.1:5000/answers' method = 'POST'>
+	<fieldset>
+		<legend><b>Сокращенные топонимы московского метрополитена</b></legend>
+	<p>Сейчас мы сыграем в одну игру. Будет весело, но это неточно...</p>
+	<p>Но для начала было бы неплохо познакомиться.</p>
+	<p>Расскажите немного о себе, это понадобится для позже для анализа, конфиденциальность гарантирована.</p>
+	<p>Убедительная просьба вводить все данные кириллицей, а то в мире будет грустить один котик.</p>
+	
+	Ваше имя (или псевдоним :) ):
+	<input type='text' name='name' required pattern='[а-яА-Я]+'><br>
+	Возраст (полных лет):
+	<input type="text" name="age"><br>
+	Ваш родной город: 
+	<input type='radio' name="city" value='Москва'checked>Москва<br>
+	<input type='radio' name="city" value='не Москва'checked>не Москва<br>
+	<p>Это не нетерпимость ко всем не_москвичам, авторка сама из МО, это вопросики по московскому метрополитену.</p>
+	
+	<p>Угадайте топоним по его распространенному сокращению:</p>
+	
+	комса: <input type="text" name="komsa" required pattern='[а-яА-Я]+'><br>
+	севас: <input type="text" name="sevas" required pattern='[а-яА-Я]+'><br>
+	крыло: <input type="text" name="krulo" required pattern='[а-яА-Я]+'><br>		
+	шабла: <input type="text" name="shabla" required pattern='[а-яА-Я]+'><br>
+	савок: <input type="text" name="savok" required pattern='[а-яА-Я]+'><br>
+	
+	<p><input type='submit' value='отправить'></p>
+	
+	</fieldset>
+</form>
+<p><a href='/stats'>статистика</a></p>
+<p><a href='/json'>json</a></p>
+<p><a href='/search'>поиск</a></p>
+</body>
+</html>

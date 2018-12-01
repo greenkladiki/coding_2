@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='ru'>
+<head>
+	<meta charset='UTF-8'>
+	<title>Поиск по ответам</title>
+</head>
+<body>
+<form action='http://127.0.0.1:5000/results' method = 'POST'>
+	<fieldset>
+		<legend><b>Анализ данных</b></legend>
+		<p>Попробуем покопаться в результатах опроса.</p>
+		
+		Введите имя респондента: <input type="text" name="ask_name" required pattern='[а-яА-Я]+'><br>
+		Укажите возраст респондента: <input type="text" name="ask_age"><br>
+		Укажите интересующий Вас город:
+		<input type='radio' name="ask_city" value='msc'checked>Москва<br>
+		<input type='radio' name="ask_city" value='nmsc'checked>не Москва<br>
+
+		<p>
+		Смотреть результаты для:
+		<input type="checkbox" name="ask_komsa"> комса
+		<input type="checkbox" name="ask_sevas"> севас
+		<input type="checkbox" name="ask_krulo"> крыло
+		<input type="checkbox" name="ask_shabla"> шабла
+		<input type="checkbox" name="ask_savok"> савок
+		</p>
+		
+		<p><input type='submit' value='искать'></p>
+</form>
+
+<p><a href='/'>главная страница</a></p>
+<p><a href='/stats'>статистика</a></p>
+<p><a href='/json'>json</a></p>
+<p><a href='/search'>поиск</a></p>
+</body>
+</html>
