@@ -1,5 +1,4 @@
-ссылка на гугл-папку, в которой:
+[ссылка]https://drive.google.com/open?id=1xUvBGaGrmeYto-52WIjhHJgNFiJa98_q на гугл-папку, в которой:
 - статистика в csv
 - нелемматизированные тексты 
 - отдельно некоторые параметры к комментариям, которые создались при построении графиков 4 и 5 (ну на всякий случай)
-https://drive.google.com/open?id=1xUvBGaGrmeYto-52WIjhHJgNFiJa98_q
