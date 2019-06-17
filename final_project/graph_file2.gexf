@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.1</creator>
+      <lastmodified>12/06/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="идти" label="идти" />
+      <node id="пойти" label="пойти" />
+      <node id="побежать" label="побежать" />
+      <node id="двинуться" label="двинуться" />
+      <node id="побрести" label="побрести" />
+      <node id="зашагать" label="зашагать" />
+      <node id="направляться" label="направляться" />
+      <node id="отправляться" label="отправляться" />
+      <node id="пошагать" label="пошагать" />
+      <node id="поехать" label="поехать" />
+      <node id="зайти" label="зайти" />
+      <node id="поплестись" label="поплестись" />
+      <node id="уходить" label="уходить" />
+      <node id="заковылять" label="заковылять" />
+      <node id="помчаться" label="помчаться" />
+      <node id="потащиться" label="потащиться" />
+      <node id="погнать" label="погнать" />
+      <node id="ринуться" label="ринуться" />
+      <node id="поводить" label="поводить" />
+      <node id="заспешить" label="заспешить" />
+      <node id="похромать" label="похромать" />
+      <node id="бежать" label="бежать" />
+      <node id="кинуться" label="кинуться" />
+      <node id="поскакать" label="поскакать" />
+      <node id="устремляться" label="устремляться" />
+      <node id="продвигаться" label="продвигаться" />
+      <node id="шагнуть" label="шагнуть" />
+      <node id="тронуться" label="тронуться" />
+      <node id="двигаться" label="двигаться" />
+      <node id="проследовать" label="проследовать" />
+      <node id="двинуть" label="двинуть" />
+      <node id="рвануться" label="рвануться" />
+      <node id="понестись" label="понестись" />
+      <node id="подвигаться" label="подвигаться" />
+      <node id="покатить" label="покатить" />
+      <node id="отходить" label="отходить" />
+      <node id="затрусить" label="затрусить" />
+      <node id="подаваться" label="подаваться" />
+      <node id="мчаться" label="мчаться" />
+      <node id="шагать" label="шагать" />
+      <node id="вышагивать" label="вышагивать" />
+      <node id="брести" label="брести" />
+      <node id="шествовать" label="шествовать" />
+      <node id="семенить" label="семенить" />
+      <node id="ковылять" label="ковылять" />
+      <node id="прохаживаться" label="прохаживаться" />
+      <node id="расхаживать" label="расхаживать" />
+      <node id="ступать" label="ступать" />
+      <node id="плестись" label="плестись" />
+      <node id="тащиться" label="тащиться" />
+      <node id="засеменить" label="засеменить" />
+      <node id="вести" label="вести" />
+      <node id="вестись" label="вестись" />
+      <node id="вступать" label="вступать" />
+      <node id="ползти" label="ползти" />
+      <node id="бродить" label="бродить" />
+      <node id="пробираться" label="пробираться" />
+      <node id="тянуться" label="тянуться" />
+      <node id="выбредать" label="выбредать" />
+      <node id="влачиться" label="влачиться" />
+      <node id="убегать" label="убегать" />
+      <node id="удирать" label="удирать" />
+      <node id="бросаться" label="бросаться" />
+      <node id="нестись" label="нестись" />
+      <node id="припускаться" label="припускаться" />
+      <node id="скакать" label="скакать" />
+      <node id="сбегать" label="сбегать" />
+      <node id="догонять" label="догонять" />
+      <node id="уводить" label="уводить" />
+      <node id="гнать" label="гнать" />
+      <node id="ускакивать" label="ускакивать" />
+      <node id="выбегать" label="выбегать" />
+      <node id="бегать" label="бегать" />
+      <node id="лететь" label="лететь" />
+      <node id="метнуться" label="метнуться" />
+      <node id="умчаться" label="умчаться" />
+      <node id="потрусить" label="потрусить" />
+      <node id="проходиться" label="проходиться" />
+      <node id="удаляться" label="удаляться" />
+      <node id="просеменить" label="просеменить" />
+      <node id="выезжать" label="выезжать" />
+      <node id="перебираться" label="перебираться" />
+      <node id="потащить" label="потащить" />
+      <node id="добираться" label="добираться" />
+      <node id="подъезжать" label="подъезжать" />
+      <node id="поволочь" label="поволочь" />
+      <node id="выскочить" label="выскочить" />
+      <node id="ехать" label="ехать" />
+      <node id="тащить" label="тащить" />
+      <node id="проехать" label="проехать" />
+      <node id="доволакивать" label="доволакивать" />
+      <node id="таскаться" label="таскаться" />
+      <node id="передвигаться" label="передвигаться" />
+      <node id="перемещаться" label="перемещаться" />
+      <node id="двигать" label="двигать" />
+      <node id="плыть" label="плыть" />
+      <node id="скользить" label="скользить" />
+      <node id="катиться" label="катиться" />
+      <node id="прошествовать" label="прошествовать" />
+      <node id="уезжать" label="уезжать" />
+      <node id="ездить" label="ездить" />
+      <node id="везти" label="везти" />
+      <node id="приезжать" label="приезжать" />
+      <node id="съездить" label="съездить" />
+      <node id="доезжать" label="доезжать" />
+      <node id="укатить" label="укатить" />
+      <node id="заезжать" label="заезжать" />
+      <node id="отвозить" label="отвозить" />
+      <node id="повезти" label="повезти" />
+      <node id="переезжать" label="переезжать" />
+      <node id="увозить" label="увозить" />
+      <node id="прикатить" label="прикатить" />
+      <node id="отправлять" label="отправлять" />
+      <node id="увезти" label="увезти" />
+      <node id="возить" label="возить" />
+      <node id="возвращаться" label="возвращаться" />
+      <node id="прибывать" label="прибывать" />
+      <node id="помчать" label="помчать" />
+      <node id="довезти" label="довезти" />
+      <node id="отъезжать" label="отъезжать" />
+      <node id="привозить" label="привозить" />
+      <node id="катить" label="катить" />
+      <node id="поковылять" label="поковылять" />
+      <node id="поплыть" label="поплыть" />
+      <node id="поползти" label="поползти" />
+      <node id="ходить" label="ходить" />
+      <node id="шастать" label="шастать" />
+      <node id="водить" label="водить" />
+      <node id="слоняться" label="слоняться" />
+      <node id="шляться" label="шляться" />
+      <node id="гонять" label="гонять" />
+      <node id="заходить" label="заходить" />
+      <node id="гулять" label="гулять" />
+      <node id="разгуливать" label="разгуливать" />
+      <node id="хаживать" label="хаживать" />
+      <node id="таскать" label="таскать" />
+      <node id="носиться" label="носиться" />
+      <node id="похаживать" label="похаживать" />
+      <node id="проходить" label="проходить" />
+      <node id="пройти" label="пройти" />
+      <node id="проскочить" label="проскочить" />
+      <node id="пробегать" label="пробегать" />
+      <node id="пролететь" label="пролететь" />
+      <node id="промчаться" label="промчаться" />
+      <node id="прошагать" label="прошагать" />
+      <node id="прошмыгивать" label="прошмыгивать" />
+      <node id="проезжать" label="проезжать" />
+      <node id="проплывать" label="проплывать" />
+      <node id="пробежать" label="пробежать" />
+      <node id="пропускать" label="пропускать" />
+      <node id="продефилировать" label="продефилировать" />
+      <node id="проскальзывать" label="проскальзывать" />
+      <node id="проводить" label="проводить" />
+      <node id="пробрести" label="пробрести" />
+      <node id="миновать" label="миновать" />
+      <node id="пролетать" label="пролетать" />
+      <node id="проносить" label="проносить" />
+      <node id="проскакивать" label="проскакивать" />
+      <node id="пронестись" label="пронестись" />
+      <node id="пронести" label="пронести" />
+      <node id="проноситься" label="проноситься" />
+      <node id="дефилировать" label="дефилировать" />
+      <node id="отводить" label="отводить" />
+      <node id="потянуть" label="потянуть" />
+      <node id="вскидывать" label="вскидывать" />
+      <node id="заявляться" label="заявляться" />
+      <node id="заскакивать" label="заскакивать" />
+      <node id="позвонить" label="позвонить" />
+      <node id="забегать" label="забегать" />
+      <node id="забредать" label="забредать" />
+      <node id="вламываться" label="вламываться" />
+    </nodes>
+    <edges>
+      <edge id="0" source="идти" target="пойти" weight="0.7655348777770996" />
+      <edge id="1" source="идти" target="двинуться" weight="0.6197257041931152" />
+      <edge id="2" source="идти" target="шагать" weight="0.6100958585739136" />
+      <edge id="3" source="идти" target="вести" weight="0.5924842357635498" />
+      <edge id="4" source="идти" target="брести" weight="0.5759766697883606" />
+      <edge id="5" source="идти" target="бежать" weight="0.5744491815567017" />
+      <edge id="6" source="идти" target="зашагать" weight="0.5686134099960327" />
+      <edge id="7" source="идти" target="плестись" weight="0.5623124837875366" />
+      <edge id="8" source="идти" target="направляться" weight="0.561933159828186" />
+      <edge id="9" source="идти" target="побежать" weight="0.5589895248413086" />
+      <edge id="10" source="идти" target="тащиться" weight="0.5504051446914673" />
+      <edge id="11" source="идти" target="двигаться" weight="0.5421627759933472" />
+      <edge id="12" source="идти" target="шествовать" weight="0.5383661985397339" />
+      <edge id="13" source="идти" target="ехать" weight="0.5263373851776123" />
+      <edge id="14" source="идти" target="побрести" weight="0.5188142657279968" />
+      <edge id="15" source="идти" target="ходить" weight="0.5084300637245178" />
+      <edge id="16" source="идти" target="проходить" weight="0.5072476863861084" />
+      <edge id="17" source="идти" target="поводить" weight="0.5071464776992798" />
+      <edge id="18" source="идти" target="зайти" weight="0.5055143237113953" />
+      <edge id="19" source="пойти" target="побежать" weight="0.727602481842041" />
+      <edge id="20" source="пойти" target="двинуться" weight="0.6762604713439941" />
+      <edge id="21" source="пойти" target="побрести" weight="0.663556694984436" />
+      <edge id="22" source="пойти" target="зашагать" weight="0.6603676676750183" />
+      <edge id="23" source="пойти" target="направляться" weight="0.6535550355911255" />
+      <edge id="24" source="пойти" target="отправляться" weight="0.6452643871307373" />
+      <edge id="25" source="пойти" target="пошагать" weight="0.6125736236572266" />
+      <edge id="26" source="пойти" target="поехать" weight="0.610564112663269" />
+      <edge id="27" source="пойти" target="зайти" weight="0.6093512773513794" />
+      <edge id="28" source="пойти" target="поплестись" weight="0.6090100407600403" />
+      <edge id="29" source="пойти" target="уходить" weight="0.6083008646965027" />
+      <edge id="30" source="пойти" target="заковылять" weight="0.5947279930114746" />
+      <edge id="31" source="пойти" target="помчаться" weight="0.5895206332206726" />
+      <edge id="32" source="пойти" target="потащиться" weight="0.5875346064567566" />
+      <edge id="33" source="пойти" target="погнать" weight="0.5737993717193604" />
+      <edge id="34" source="пойти" target="ринуться" weight="0.5669698715209961" />
+      <edge id="35" source="пойти" target="поводить" weight="0.5615112781524658" />
+      <edge id="36" source="пойти" target="заспешить" weight="0.5436160564422607" />
+      <edge id="37" source="пойти" target="похромать" weight="0.5433061122894287" />
+      <edge id="38" source="пойти" target="бежать" weight="0.5123604536056519" />
+      <edge id="39" source="пойти" target="кинуться" weight="0.5080394744873047" />
+      <edge id="40" source="пойти" target="поскакать" weight="0.5048991441726685" />
+      <edge id="41" source="побежать" target="двинуться" weight="0.6738101243972778" />
+      <edge id="42" source="побежать" target="шагать" weight="0.5041806697845459" />
+      <edge id="43" source="побежать" target="бежать" weight="0.7480461597442627" />
+      <edge id="44" source="побежать" target="зашагать" weight="0.7062735557556152" />
+      <edge id="45" source="побежать" target="направляться" weight="0.641728401184082" />
+      <edge id="46" source="побежать" target="помчаться" weight="0.8152073621749878" />
+      <edge id="47" source="побежать" target="кинуться" weight="0.7825019955635071" />
+      <edge id="48" source="побежать" target="ринуться" weight="0.7522914409637451" />
+      <edge id="49" source="побежать" target="понестись" weight="0.7185623645782471" />
+      <edge id="50" source="побежать" target="заковылять" weight="0.7035180330276489" />
+      <edge id="51" source="побежать" target="бросаться" weight="0.696022629737854" />
+      <edge id="52" source="побежать" target="побрести" weight="0.6931942701339722" />
+      <edge id="53" source="побежать" target="убегать" weight="0.6868200898170471" />
+      <edge id="54" source="побежать" target="метнуться" weight="0.6784597635269165" />
+      <edge id="55" source="побежать" target="выбегать" weight="0.675075888633728" />
+      <edge id="56" source="побежать" target="потащить" weight="0.6727496385574341" />
+      <edge id="57" source="побежать" target="пошагать" weight="0.671066403388977" />
+      <edge id="58" source="побежать" target="поскакать" weight="0.6659096479415894" />
+      <edge id="59" source="побежать" target="засеменить" weight="0.6590937972068787" />
+      <edge id="60" source="побежать" target="устремляться" weight="0.6461178064346313" />
+      <edge id="61" source="побежать" target="погнать" weight="0.6410126090049744" />
+      <edge id="62" source="побежать" target="поплестись" weight="0.6363422274589539" />
+      <edge id="63" source="побежать" target="заспешить" weight="0.636060357093811" />
+      <edge id="64" source="побежать" target="рвануться" weight="0.6268332004547119" />
+      <edge id="65" source="побежать" target="сбегать" weight="0.6231846809387207" />
+      <edge id="66" source="побежать" target="мчаться" weight="0.6224490404129028" />
+      <edge id="67" source="побежать" target="поволочь" weight="0.6132417917251587" />
+      <edge id="68" source="побежать" target="потащиться" weight="0.608513593673706" />
+      <edge id="69" source="побежать" target="выскочить" weight="0.6014907956123352" />
+      <edge id="70" source="побежать" target="затрусить" weight="0.5997962951660156" />
+      <edge id="71" source="побежать" target="поводить" weight="0.5144935846328735" />
+      <edge id="72" source="двинуться" target="направляться" weight="0.7590900659561157" />
+      <edge id="73" source="двинуться" target="устремляться" weight="0.6904168128967285" />
+      <edge id="74" source="двинуться" target="зашагать" weight="0.6765244007110596" />
+      <edge id="75" source="двинуться" target="продвигаться" weight="0.6755112409591675" />
+      <edge id="76" source="двинуться" target="шагнуть" weight="0.6754492521286011" />
+      <edge id="77" source="двинуться" target="ринуться" weight="0.6681211590766907" />
+      <edge id="78" source="двинуться" target="тронуться" weight="0.6657170653343201" />
+      <edge id="79" source="двинуться" target="побрести" weight="0.6645738482475281" />
+      <edge id="80" source="двинуться" target="помчаться" weight="0.6599270105361938" />
+      <edge id="81" source="двинуться" target="двигаться" weight="0.6596091985702515" />
+      <edge id="82" source="двинуться" target="проследовать" weight="0.6338411569595337" />
+      <edge id="83" source="двинуться" target="двинуть" weight="0.6250183582305908" />
+      <edge id="84" source="двинуться" target="рвануться" weight="0.614709734916687" />
+      <edge id="85" source="двинуться" target="поскакать" weight="0.614677906036377" />
+      <edge id="86" source="двинуться" target="погнать" weight="0.6049814224243164" />
+      <edge id="87" source="двинуться" target="понестись" weight="0.6018083095550537" />
+      <edge id="88" source="двинуться" target="подвигаться" weight="0.6002563238143921" />
+      <edge id="89" source="двинуться" target="покатить" weight="0.598588764667511" />
+      <edge id="90" source="двинуться" target="заковылять" weight="0.5958535075187683" />
+      <edge id="91" source="двинуться" target="отходить" weight="0.5846558809280396" />
+      <edge id="92" source="двинуться" target="пошагать" weight="0.5831786394119263" />
+      <edge id="93" source="двинуться" target="затрусить" weight="0.578323483467102" />
+      <edge id="94" source="двинуться" target="подаваться" weight="0.5749597549438477" />
+      <edge id="95" source="двинуться" target="мчаться" weight="0.5731900930404663" />
+      <edge id="96" source="двинуться" target="бежать" weight="0.5722258687019348" />
+      <edge id="97" source="двинуться" target="отправляться" weight="0.5722140073776245" />
+      <edge id="98" source="двинуться" target="поплестись" weight="0.5657316446304321" />
+      <edge id="99" source="двинуться" target="шагать" weight="0.5397337079048157" />
+      <edge id="100" source="двинуться" target="брести" weight="0.5411821603775024" />
+      <edge id="101" source="двинуться" target="тащиться" weight="0.5021668672561646" />
+      <edge id="102" source="двинуться" target="шествовать" weight="0.513431191444397" />
+      <edge id="103" source="двинуться" target="поводить" weight="0.5503467321395874" />
+      <edge id="104" source="побрести" target="шагать" weight="0.5560405254364014" />
+      <edge id="105" source="побрести" target="брести" weight="0.6880639791488647" />
+      <edge id="106" source="побрести" target="зашагать" weight="0.7349943518638611" />
+      <edge id="107" source="побрести" target="плестись" weight="0.5370824933052063" />
+      <edge id="108" source="побрести" target="направляться" weight="0.6441818475723267" />
+      <edge id="109" source="побрести" target="тащиться" weight="0.5428897142410278" />
+      <edge id="110" source="побрести" target="поплестись" weight="0.7678540349006653" />
+      <edge id="111" source="побрести" target="заковылять" weight="0.693747341632843" />
+      <edge id="112" source="побрести" target="потащиться" weight="0.663663387298584" />
+      <edge id="113" source="побрести" target="пошагать" weight="0.6399431228637695" />
+      <edge id="114" source="побрести" target="помчаться" weight="0.6130020022392273" />
+      <edge id="115" source="побрести" target="заспешить" weight="0.5988311767578125" />
+      <edge id="116" source="побрести" target="потрусить" weight="0.5683318376541138" />
+      <edge id="117" source="побрести" target="потащить" weight="0.5562885999679565" />
+      <edge id="118" source="побрести" target="засеменить" weight="0.5550433993339539" />
+      <edge id="119" source="побрести" target="ковылять" weight="0.5500369668006897" />
+      <edge id="120" source="побрести" target="шагнуть" weight="0.5491023063659668" />
+      <edge id="121" source="побрести" target="поковылять" weight="0.5366894006729126" />
+      <edge id="122" source="побрести" target="ползти" weight="0.5288708209991455" />
+      <edge id="123" source="побрести" target="поплыть" weight="0.5244612097740173" />
+      <edge id="124" source="побрести" target="проследовать" weight="0.5217795372009277" />
+      <edge id="125" source="побрести" target="затрусить" weight="0.5206007957458496" />
+      <edge id="126" source="побрести" target="поползти" weight="0.5184657573699951" />
+      <edge id="127" source="побрести" target="понестись" weight="0.5170114040374756" />
+      <edge id="128" source="побрести" target="метнуться" weight="0.503379225730896" />
+      <edge id="129" source="побрести" target="проходиться" weight="0.5002965927124023" />
+      <edge id="130" source="зашагать" target="шагать" weight="0.711942195892334" />
+      <edge id="131" source="зашагать" target="брести" weight="0.5547777414321899" />
+      <edge id="132" source="зашагать" target="заковылять" weight="0.7120063304901123" />
+      <edge id="133" source="зашагать" target="пошагать" weight="0.6634507179260254" />
+      <edge id="134" source="зашагать" target="помчаться" weight="0.6383904218673706" />
+      <edge id="135" source="зашагать" target="направляться" weight="0.6378355026245117" />
+      <edge id="136" source="зашагать" target="поплестись" weight="0.6227402091026306" />
+      <edge id="137" source="зашагать" target="засеменить" weight="0.6131236553192139" />
+      <edge id="138" source="зашагать" target="шагнуть" weight="0.6053141355514526" />
+      <edge id="139" source="зашагать" target="понестись" weight="0.5880559086799622" />
+      <edge id="140" source="зашагать" target="потрусить" weight="0.5546200275421143" />
+      <edge id="141" source="зашагать" target="потащиться" weight="0.5541567206382751" />
+      <edge id="142" source="зашагать" target="затрусить" weight="0.5434361696243286" />
+      <edge id="143" source="зашагать" target="ринуться" weight="0.5368590950965881" />
+      <edge id="144" source="зашагать" target="проходиться" weight="0.5352070927619934" />
+      <edge id="145" source="зашагать" target="заспешить" weight="0.528518557548523" />
+      <edge id="146" source="зашагать" target="метнуться" weight="0.5282014608383179" />
+      <edge id="147" source="зашагать" target="покатить" weight="0.5249369144439697" />
+      <edge id="148" source="зашагать" target="поскакать" weight="0.521992027759552" />
+      <edge id="149" source="зашагать" target="вышагивать" weight="0.5208502411842346" />
+      <edge id="150" source="зашагать" target="проследовать" weight="0.5202932357788086" />
+      <edge id="151" source="зашагать" target="удаляться" weight="0.5189387202262878" />
+      <edge id="152" source="зашагать" target="мчаться" weight="0.5143486857414246" />
+      <edge id="153" source="зашагать" target="бежать" weight="0.5135271549224854" />
+      <edge id="154" source="зашагать" target="просеменить" weight="0.5130912661552429" />
+      <edge id="155" source="направляться" target="отправляться" weight="0.7057210803031921" />
+      <edge id="156" source="направляться" target="проследовать" weight="0.6992251873016357" />
+      <edge id="157" source="направляться" target="устремляться" weight="0.6555341482162476" />
+      <edge id="158" source="направляться" target="помчаться" weight="0.6139354705810547" />
+      <edge id="159" source="направляться" target="ринуться" weight="0.6039616465568542" />
+      <edge id="160" source="направляться" target="поплестись" weight="0.5815593004226685" />
+      <edge id="161" source="направляться" target="поехать" weight="0.5795855522155762" />
+      <edge id="162" source="направляться" target="заковылять" weight="0.5765334367752075" />
+      <edge id="163" source="направляться" target="выезжать" weight="0.5664880275726318" />
+      <edge id="164" source="направляться" target="потащиться" weight="0.562108039855957" />
+      <edge id="165" source="направляться" target="перебираться" weight="0.5607093572616577" />
+      <edge id="166" source="направляться" target="шагнуть" weight="0.5600589513778687" />
+      <edge id="167" source="направляться" target="удаляться" weight="0.5574307441711426" />
+      <edge id="168" source="направляться" target="отходить" weight="0.554468035697937" />
+      <edge id="169" source="направляться" target="кинуться" weight="0.5455992221832275" />
+      <edge id="170" source="направляться" target="заспешить" weight="0.5453469753265381" />
+      <edge id="171" source="направляться" target="погнать" weight="0.5433956384658813" />
+      <edge id="172" source="направляться" target="пробираться" weight="0.5429550409317017" />
+      <edge id="173" source="направляться" target="поводить" weight="0.5413647890090942" />
+      <edge id="174" source="направляться" target="потащить" weight="0.5408742427825928" />
+      <edge id="175" source="направляться" target="засеменить" weight="0.5344538688659668" />
+      <edge id="176" source="направляться" target="пошагать" weight="0.5332074165344238" />
+      <edge id="177" source="направляться" target="добираться" weight="0.532855749130249" />
+      <edge id="178" source="направляться" target="подъезжать" weight="0.5285130739212036" />
+      <edge id="179" source="направляться" target="зайти" weight="0.5258057117462158" />
+      <edge id="180" source="отправляться" target="ехать" weight="0.6597929000854492" />
+      <edge id="181" source="отправляться" target="зайти" weight="0.5413686037063599" />
+      <edge id="182" source="пошагать" target="шагать" weight="0.5329382419586182" />
+      <edge id="183" source="пошагать" target="брести" weight="0.5001934766769409" />
+      <edge id="184" source="поехать" target="ехать" weight="0.8418828248977661" />
+      <edge id="185" source="поехать" target="зайти" weight="0.5072119235992432" />
+      <edge id="186" source="зайти" target="заходить" weight="0.7740716338157654" />
+      <edge id="187" source="зайти" target="заезжать" weight="0.7097403407096863" />
+      <edge id="188" source="зайти" target="заявляться" weight="0.5409240126609802" />
+      <edge id="189" source="зайти" target="заскакивать" weight="0.5398131608963013" />
+      <edge id="190" source="зайти" target="позвонить" weight="0.5384967923164368" />
+      <edge id="191" source="зайти" target="забегать" weight="0.5245820879936218" />
+      <edge id="192" source="зайти" target="забредать" weight="0.5189841389656067" />
+      <edge id="193" source="зайти" target="вламываться" weight="0.5064458847045898" />
+      <edge id="194" source="поплестись" target="брести" weight="0.6008912324905396" />
+      <edge id="195" source="поплестись" target="плестись" weight="0.5819916725158691" />
+      <edge id="196" source="поплестись" target="тащиться" weight="0.5247853994369507" />
+      <edge id="197" source="заковылять" target="шагать" weight="0.5273024439811707" />
+      <edge id="198" source="помчаться" target="бежать" weight="0.6475301384925842" />
+      <edge id="199" source="потащиться" target="брести" weight="0.5845781564712524" />
+      <edge id="200" source="потащиться" target="плестись" weight="0.5128815174102783" />
+      <edge id="201" source="потащиться" target="тащиться" weight="0.5849651098251343" />
+      <edge id="202" source="погнать" target="бежать" weight="0.5989348888397217" />
+      <edge id="203" source="ринуться" target="бежать" weight="0.5983834266662598" />
+      <edge id="204" source="поводить" target="вести" weight="0.5482667684555054" />
+      <edge id="205" source="поводить" target="уводить" weight="0.5908405184745789" />
+      <edge id="206" source="поводить" target="потащить" weight="0.5687465667724609" />
+      <edge id="207" source="поводить" target="отводить" weight="0.5603882074356079" />
+      <edge id="208" source="поводить" target="двинуть" weight="0.5588538646697998" />
+      <edge id="209" source="поводить" target="потянуть" weight="0.5273647308349609" />
+      <edge id="210" source="поводить" target="вскидывать" weight="0.5214913487434387" />
+      <edge id="211" source="поводить" target="водить" weight="0.510135293006897" />
+      <edge id="212" source="бежать" target="шагать" weight="0.5340087413787842" />
+      <edge id="213" source="бежать" target="убегать" weight="0.7368186712265015" />
+      <edge id="214" source="бежать" target="мчаться" weight="0.6600573062896729" />
+      <edge id="215" source="бежать" target="кинуться" weight="0.6437599062919617" />
+      <edge id="216" source="бежать" target="удирать" weight="0.6384244561195374" />
+      <edge id="217" source="бежать" target="бросаться" weight="0.6151851415634155" />
+      <edge id="218" source="бежать" target="нестись" weight="0.6019094586372375" />
+      <edge id="219" source="бежать" target="припускаться" weight="0.5946117639541626" />
+      <edge id="220" source="бежать" target="понестись" weight="0.5895220041275024" />
+      <edge id="221" source="бежать" target="скакать" weight="0.5821853280067444" />
+      <edge id="222" source="бежать" target="сбегать" weight="0.5818919539451599" />
+      <edge id="223" source="бежать" target="поскакать" weight="0.5633901953697205" />
+      <edge id="224" source="бежать" target="устремляться" weight="0.5523030757904053" />
+      <edge id="225" source="бежать" target="догонять" weight="0.5436326861381531" />
+      <edge id="226" source="бежать" target="уводить" weight="0.542182207107544" />
+      <edge id="227" source="бежать" target="гнать" weight="0.5416289567947388" />
+      <edge id="228" source="бежать" target="ускакивать" weight="0.5372775793075562" />
+      <edge id="229" source="бежать" target="выбегать" weight="0.536041259765625" />
+      <edge id="230" source="бежать" target="бегать" weight="0.5238922834396362" />
+      <edge id="231" source="бежать" target="пробираться" weight="0.522537887096405" />
+      <edge id="232" source="бежать" target="лететь" weight="0.5219327211380005" />
+      <edge id="233" source="бежать" target="метнуться" weight="0.5142002701759338" />
+      <edge id="234" source="бежать" target="умчаться" weight="0.5141460299491882" />
+      <edge id="235" source="бежать" target="рвануться" weight="0.5137268304824829" />
+      <edge id="236" source="продвигаться" target="двигаться" weight="0.6665183901786804" />
+      <edge id="237" source="шагнуть" target="шагать" weight="0.5252598524093628" />
+      <edge id="238" source="двигаться" target="шагать" weight="0.5875189900398254" />
+      <edge id="239" source="двигаться" target="брести" weight="0.5265018939971924" />
+      <edge id="240" source="двигаться" target="тащиться" weight="0.5211433172225952" />
+      <edge id="241" source="двигаться" target="передвигаться" weight="0.7192176580429077" />
+      <edge id="242" source="двигаться" target="перемещаться" weight="0.6885311007499695" />
+      <edge id="243" source="двигаться" target="ползти" weight="0.6352197527885437" />
+      <edge id="244" source="двигаться" target="подвигаться" weight="0.5815320611000061" />
+      <edge id="245" source="двигаться" target="двигать" weight="0.5802536606788635" />
+      <edge id="246" source="двигаться" target="плыть" weight="0.570487380027771" />
+      <edge id="247" source="двигаться" target="скользить" weight="0.5562440156936646" />
+      <edge id="248" source="двигаться" target="мчаться" weight="0.5413637161254883" />
+      <edge id="249" source="двигаться" target="нестись" weight="0.535938024520874" />
+      <edge id="250" source="двигаться" target="катиться" weight="0.5072250962257385" />
+      <edge id="251" source="проследовать" target="шествовать" weight="0.546768069267273" />
+      <edge id="252" source="проследовать" target="проходить" weight="0.5136232376098633" />
+      <edge id="253" source="мчаться" target="брести" weight="0.5150450468063354" />
+      <edge id="254" source="мчаться" target="тащиться" weight="0.5628061890602112" />
+      <edge id="255" source="мчаться" target="ехать" weight="0.546088695526123" />
+      <edge id="256" source="шагать" target="вышагивать" weight="0.6787703037261963" />
+      <edge id="257" source="шагать" target="брести" weight="0.6538882255554199" />
+      <edge id="258" source="шагать" target="шествовать" weight="0.6102941036224365" />
+      <edge id="259" source="шагать" target="семенить" weight="0.5955848097801208" />
+      <edge id="260" source="шагать" target="ковылять" weight="0.5888198614120483" />
+      <edge id="261" source="шагать" target="прохаживаться" weight="0.5670813322067261" />
+      <edge id="262" source="шагать" target="расхаживать" weight="0.54547518491745" />
+      <edge id="263" source="шагать" target="ступать" weight="0.5433503985404968" />
+      <edge id="264" source="шагать" target="плестись" weight="0.5341854095458984" />
+      <edge id="265" source="шагать" target="тащиться" weight="0.507561445236206" />
+      <edge id="266" source="шагать" target="засеменить" weight="0.5043133497238159" />
+      <edge id="267" source="вышагивать" target="брести" weight="0.5027414560317993" />
+      <edge id="268" source="брести" target="тащиться" weight="0.6954700350761414" />
+      <edge id="269" source="брести" target="плестись" weight="0.6548928022384644" />
+      <edge id="270" source="брести" target="ковылять" weight="0.6319121718406677" />
+      <edge id="271" source="брести" target="ползти" weight="0.5919641256332397" />
+      <edge id="272" source="брести" target="шествовать" weight="0.5902424454689026" />
+      <edge id="273" source="брести" target="бродить" weight="0.5684353113174438" />
+      <edge id="274" source="брести" target="пробираться" weight="0.5264579653739929" />
+      <edge id="275" source="брести" target="тянуться" weight="0.5150526762008667" />
+      <edge id="276" source="брести" target="выбредать" weight="0.5087480545043945" />
+      <edge id="277" source="брести" target="влачиться" weight="0.5044982433319092" />
+      <edge id="278" source="шествовать" target="плестись" weight="0.5101559162139893" />
+      <edge id="279" source="шествовать" target="прошествовать" weight="0.5169822573661804" />
+      <edge id="280" source="ковылять" target="плестись" weight="0.5710723400115967" />
+      <edge id="281" source="ковылять" target="тащиться" weight="0.5604008436203003" />
+      <edge id="282" source="прохаживаться" target="ходить" weight="0.5329394936561584" />
+      <edge id="283" source="расхаживать" target="ходить" weight="0.5603319406509399" />
+      <edge id="284" source="плестись" target="тащиться" weight="0.7054920196533203" />
+      <edge id="285" source="тащиться" target="ползти" weight="0.6184743642807007" />
+      <edge id="286" source="тащиться" target="ехать" weight="0.6077704429626465" />
+      <edge id="287" source="тащиться" target="тащить" weight="0.5928667783737183" />
+      <edge id="288" source="тащиться" target="проехать" weight="0.5361496210098267" />
+      <edge id="289" source="тащиться" target="доволакивать" weight="0.5262051820755005" />
+      <edge id="290" source="тащиться" target="пробираться" weight="0.514539897441864" />
+      <edge id="291" source="тащиться" target="таскаться" weight="0.5124351978302002" />
+      <edge id="292" source="тащиться" target="передвигаться" weight="0.5061751008033752" />
+      <edge id="293" source="вести" target="вестись" weight="0.7003635168075562" />
+      <edge id="294" source="вести" target="вступать" weight="0.5208494663238525" />
+      <edge id="295" source="бродить" target="ходить" weight="0.5957226753234863" />
+      <edge id="296" source="бегать" target="ходить" weight="0.7044021487236023" />
+      <edge id="297" source="выезжать" target="ехать" weight="0.7294274568557739" />
+      <edge id="298" source="подъезжать" target="ехать" weight="0.5483328700065613" />
+      <edge id="299" source="ехать" target="уезжать" weight="0.7244654297828674" />
+      <edge id="300" source="ехать" target="ездить" weight="0.7213042378425598" />
+      <edge id="301" source="ехать" target="проехать" weight="0.6836754679679871" />
+      <edge id="302" source="ехать" target="везти" weight="0.6639786958694458" />
+      <edge id="303" source="ехать" target="приезжать" weight="0.657921314239502" />
+      <edge id="304" source="ехать" target="съездить" weight="0.653390645980835" />
+      <edge id="305" source="ехать" target="доезжать" weight="0.6495455503463745" />
+      <edge id="306" source="ехать" target="укатить" weight="0.6417402029037476" />
+      <edge id="307" source="ехать" target="заезжать" weight="0.6369651556015015" />
+      <edge id="308" source="ехать" target="отвозить" weight="0.6287169456481934" />
+      <edge id="309" source="ехать" target="повезти" weight="0.6162300705909729" />
+      <edge id="310" source="ехать" target="переезжать" weight="0.6130630373954773" />
+      <edge id="311" source="ехать" target="увозить" weight="0.5959420800209045" />
+      <edge id="312" source="ехать" target="прикатить" weight="0.5870658755302429" />
+      <edge id="313" source="ехать" target="отправлять" weight="0.583155632019043" />
+      <edge id="314" source="ехать" target="увезти" weight="0.5741645097732544" />
+      <edge id="315" source="ехать" target="возить" weight="0.5629698038101196" />
+      <edge id="316" source="ехать" target="возвращаться" weight="0.5502004027366638" />
+      <edge id="317" source="ехать" target="прибывать" weight="0.5441207885742188" />
+      <edge id="318" source="ехать" target="помчать" weight="0.5438206791877747" />
+      <edge id="319" source="ехать" target="довезти" weight="0.5425382852554321" />
+      <edge id="320" source="ехать" target="отъезжать" weight="0.5401142835617065" />
+      <edge id="321" source="ехать" target="привозить" weight="0.5399174690246582" />
+      <edge id="322" source="ехать" target="катить" weight="0.5372501611709595" />
+      <edge id="323" source="проехать" target="проходить" weight="0.5946816205978394" />
+      <edge id="324" source="таскаться" target="ходить" weight="0.6561149954795837" />
+      <edge id="325" source="прошествовать" target="проходить" weight="0.5702720284461975" />
+      <edge id="326" source="ездить" target="ходить" weight="0.6022499799728394" />
+      <edge id="327" source="возить" target="ходить" weight="0.5026361346244812" />
+      <edge id="328" source="ходить" target="шастать" weight="0.5927705764770508" />
+      <edge id="329" source="ходить" target="водить" weight="0.588437020778656" />
+      <edge id="330" source="ходить" target="слоняться" weight="0.5783630609512329" />
+      <edge id="331" source="ходить" target="шляться" weight="0.5422789454460144" />
+      <edge id="332" source="ходить" target="гонять" weight="0.5419504642486572" />
+      <edge id="333" source="ходить" target="заходить" weight="0.5398874282836914" />
+      <edge id="334" source="ходить" target="гулять" weight="0.5310848355293274" />
+      <edge id="335" source="ходить" target="разгуливать" weight="0.5283607244491577" />
+      <edge id="336" source="ходить" target="хаживать" weight="0.5280977487564087" />
+      <edge id="337" source="ходить" target="таскать" weight="0.5269720554351807" />
+      <edge id="338" source="ходить" target="носиться" weight="0.5123908519744873" />
+      <edge id="339" source="ходить" target="похаживать" weight="0.5069880485534668" />
+      <edge id="340" source="проходить" target="пройти" weight="0.7921302318572998" />
+      <edge id="341" source="проходить" target="проскочить" weight="0.6300449967384338" />
+      <edge id="342" source="проходить" target="пробегать" weight="0.6273171305656433" />
+      <edge id="343" source="проходить" target="пролететь" weight="0.6247653961181641" />
+      <edge id="344" source="проходить" target="промчаться" weight="0.60755854845047" />
+      <edge id="345" source="проходить" target="прошагать" weight="0.6044855117797852" />
+      <edge id="346" source="проходить" target="прошмыгивать" weight="0.5876438617706299" />
+      <edge id="347" source="проходить" target="проезжать" weight="0.5855199098587036" />
+      <edge id="348" source="проходить" target="проплывать" weight="0.5840703248977661" />
+      <edge id="349" source="проходить" target="пробежать" weight="0.5760155320167542" />
+      <edge id="350" source="проходить" target="пропускать" weight="0.5741236209869385" />
+      <edge id="351" source="проходить" target="продефилировать" weight="0.5660490393638611" />
+      <edge id="352" source="проходить" target="проскальзывать" weight="0.5620776414871216" />
+      <edge id="353" source="проходить" target="проводить" weight="0.5595927238464355" />
+      <edge id="354" source="проходить" target="пробрести" weight="0.5538785457611084" />
+      <edge id="355" source="проходить" target="миновать" weight="0.5396525263786316" />
+      <edge id="356" source="проходить" target="пролетать" weight="0.5365667343139648" />
+      <edge id="357" source="проходить" target="проносить" weight="0.5333065986633301" />
+      <edge id="358" source="проходить" target="проскакивать" weight="0.5208399891853333" />
+      <edge id="359" source="проходить" target="пронестись" weight="0.5181858539581299" />
+      <edge id="360" source="проходить" target="пронести" weight="0.5148254632949829" />
+      <edge id="361" source="проходить" target="проноситься" weight="0.5145156979560852" />
+      <edge id="362" source="проходить" target="дефилировать" weight="0.512853741645813" />
+    </edges>
+  </graph>
+</gexf>
